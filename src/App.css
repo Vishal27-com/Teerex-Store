@@ -1,0 +1,8 @@
+.App{
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+    background-color: rgba(200, 214, 229,1.0)
+}

@@ -1,0 +1,17 @@
+.cartCard{
+    border: 1px solid grey;
+    margin:10px auto;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+}
+.quantityButton{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.quantityButton+img{
+    cursor: pointer;
+}
